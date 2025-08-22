@@ -11,7 +11,7 @@ The dataset was provided by Kaggle and includes:
 - `train_targets.csv`: Labels indicating whether the Radiant side won (`1`) or lost (`0`)
 - `test_features.csv`: For final prediction and submission
 
-> Note: The dataset is not included in this repository due to Kaggle’s data-sharing policy.
+> Note: The dataset is not included in this repository due to Kaggle’s data-sharing policy. The dataset can be obtained from https://www.kaggle.com/competitions/mlcourse-dota2-win-prediction/data
 
 ---
 
